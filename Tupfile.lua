@@ -2,9 +2,7 @@
 tup.creategitignore()
 
 patterns = { 
-   '*.txt',
    '*.pro',
-   'Worship/*.txt',
    'Worship/*.pro',
 }
 
@@ -33,7 +31,6 @@ for _, pattern in pairs(patterns) do
             '-P a4',
             '-a',
             '-w6',
-            -- ' -o "'..f_ps..'"',
             '"'..f_in..'"',
             '|',
             'ps2pdf',
