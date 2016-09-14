@@ -10,9 +10,8 @@ patterns = {
 for _, pattern in pairs(patterns) do
    files = tup.glob(pattern)
    for _, f_in in pairs(files) do
-      local f_ps = 'pdf/' .. f_in .. '.ps'
       local f_pdf = 'pdf/' .. f_in .. '.pdf'
-      print(f_in, f_ps, f_pdf)
+      --print(f_in, f_pdf)
       
       tup.definerule{
          inputs={ f_in },
