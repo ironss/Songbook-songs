@@ -32,7 +32,7 @@ for _, pattern in pairs(patterns) do
             '-G',
             '-P a4',
             '-a',
-            '-w6 ',
+            '-w6',
             -- ' -o "'..f_ps..'"',
             '"'..f_in..'"',
             '|',
@@ -41,16 +41,6 @@ for _, pattern in pairs(patterns) do
             '"' .. f_pdf .. '"',
          }, ' ')
       }
-      
---      tup.definerule{
---         inputs={ f_ps },
---         outputs={ f_pdf },
---         command=table.concat({
---            'ps2pdf',
---            '"' .. f_ps .. '"',
---            '"' .. f_pdf .. '"',
---         }, ' ')
---      }
    end
 end
 
