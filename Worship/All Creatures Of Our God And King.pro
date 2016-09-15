@@ -1,6 +1,6 @@
 {t:All Creatures of our God and King}
-{st: }
 {columns:2}
+
 {c:Verse 1}
 [D]All creatures of our [D]God and King
 [Bm7]lift up your voice and with us sing
@@ -9,6 +9,7 @@ O [G2]praise Him, Alleluia!
 [Bm7]thou silver moon with softer gleam
 O [G2]praise Him, O [D/F#]praise Him
 Alle[G2]luia! Alle[D/F#]luia! Allelu [Asus] -  [D] ia!
+
 
 {c:Verse 2}
 [D]Thou rushing wind that art so strong
@@ -19,6 +20,7 @@ O [G2]praise Him, Alleluia!
 O [G2]praise Him, O [D/F#]praise Him
 Alle[G2]luia! Alle[D/F#]luia! Allelu [Asus] - [D]ia!
 
+{colb}
 {c:Verse 3}
 [D]Let all things their Creator bless
 [Bm7]and worship Him in humbleness
@@ -27,6 +29,7 @@ O [G2]praise Him, Alleluia!
 [Bm7]and praise the Spirit, three in One  
 O [G2]praise Him, O [D/F#]praise Him
 Alle[G2]luia! Alle[D/F#]luia! Allelu[Asus] - [D]ia!
+
 
 {c:Tag}
 O Alle - [G]luia! Alle - [A]luia!

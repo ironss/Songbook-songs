@@ -6,6 +6,7 @@
 [C]From ev'ry [Dm]na-  [C]tion, all of cre-[Dm]a-    [C]tion
 [C]bow be-[B]fore the [Am]ancient of [G] Days.
 
+
 {c:Chorus:}
 {soc}
 [F]Ev'ry tongue in [Dm]heaven and [G]earth 
@@ -18,11 +19,13 @@ shall [Dm]not pass a-[G]way,
 O [F]Ancient of [G]Days. [C]
 {eoc}
 
+
 {c:Bridge:}
 Your [C]kingdom shall [C4]reign [C]over all the earth,
 [Bb]sing unto the [F]Ancient of [C]Days;
 For [C]none can com-[C4]pare to [C]Your matchless worth,
 [Bb]sing unto the [F]Ancient of [C]Days.
+
 
 {c:Tag:}
 O [F]Ancient [G]of Days, [C] 
