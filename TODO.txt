@@ -11,3 +11,10 @@
      type and size, but the lines really should be broken on bar lines or
      phrases, which is not visible in the Chordii file.
 
+3. Better font and layout choices (etc) for Chordii
+
+   * Title should be bold
+   * Comments (eg Verse) should be bold, rather than highlighted using
+     grey.
+   * Slightly more space between chords and words.
+   * Slightly less space between lines.
