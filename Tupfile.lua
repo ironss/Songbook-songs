@@ -6,37 +6,52 @@ patterns = {
    'Worship/*.pro',
 }
 
+transpositions = 
+{
+   ['Worship/How Can I Keep From Singing.pro']={ '-5' }, 
+}
 
 for _, pattern in pairs(patterns) do
    files = tup.glob(pattern)
    for _, f_in in pairs(files) do
-      local f_pdf = 'pdf/' .. f_in .. '.pdf'
-      --print(f_in, f_pdf)
+      local tr = transpositions[f_in] or {}
+      table.insert(tr, 1, 0)
       
-      tup.definerule{
-         inputs={ f_in },
-         outputs={ f_pdf },
-         command=table.concat({
-            'chordii',
-            '-c 12',
-            --'-C LiberationSans-Bold',
-            --'-C FreeSansBold',
-            '-C Helvetica-Bold',
-            '-t 12',
-            --'-T LiberationSans',
-            --'-T FreeSans',
-            '-T Helvetica',
-            '-G',
-            '-P a4',
-            '-a',
-            '-w6',
-            '"'..f_in..'"',
-            '|',
-            'ps2pdf',
-            '-',
-            '"' .. f_pdf .. '"',
-         }, ' ')
-      }
+      for _, tpos in pairs(tr) do
+          local f_pdf = 'pdf/' .. f_in .. '.pdf'
+          local tcmd = ''
+          if tpos != 0 then
+             f_pdf = 'pdf/' .. f_in .. '.' .. tpos .. '.pdf'
+             tcmd = '-x ' .. tpos
+          end
+          print(f_in, f_pdf)
+          
+          tup.definerule{
+             inputs={ f_in },
+             outputs={ f_pdf },
+             command=table.concat({
+                'chordii',
+                '-c 12',
+                --'-C LiberationSans-Bold',
+                --'-C FreeSansBold',
+                '-C Helvetica-Bold',
+                '-t 12',
+                --'-T LiberationSans',
+                --'-T FreeSans',
+                '-T Helvetica',
+                '-G',
+                '-P a4',
+                '-a',
+                '-w6',
+                '"'..f_in..'"',
+                tcmd,
+                '|',
+                'ps2pdf',
+                '-',
+                '"' .. f_pdf .. '"',
+             }, ' ')
+          }
+       end
    end
 end
 
