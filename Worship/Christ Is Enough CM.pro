@@ -1,4 +1,4 @@
-{title:Christ Is Enough}
+{title:Christ Is Enough - incomplete}
 
 {c:Verse 1}
 [G#m]Christ is my re-[E]ward and all of my de-[B]votion [F#/A#] 

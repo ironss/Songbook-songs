@@ -11,6 +11,7 @@
      type and size, but the lines really should be broken on bar lines or
      phrases, which is not visible in the Chordii file.
 
+
 3. Better font and layout choices (etc) for Chordii
 
    * Title should be bold
@@ -18,3 +19,17 @@
      grey.
    * Slightly more space between chords and words.
    * Slightly less space between lines.
+
+   
+4. Some songs are incomplete -- they have the word 'incomplete' in the title.
+   There are about 45 of them, out of about 115.
+   
+   I have been through the first 10 or so songs and finished them. But there are lots more to do...
+
+
+Songs needing work
+==================
+
+* Came to my rescue (2 versions)
+* Christ is enough (2 versions)
+

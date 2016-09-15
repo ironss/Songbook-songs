@@ -1,7 +1,8 @@
-{t:Complete}
+{t:Complete - incomplete}
 
 {c:Intro}
 [|]    [A]    [A7/G]        [|]    [D/F#]        [Dm/F]        [|]
+
 
 {c:Verse}
 [A]Here I [E/G#]am, Oh [F#m]God I [D]bring this [E]sacri-[A]fice

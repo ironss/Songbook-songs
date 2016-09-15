@@ -34,3 +34,4 @@ and words. Chordii does not handle these properly.
 
 Some files are text files in a format with comments written in square
 brackets rather than curlies.
+
