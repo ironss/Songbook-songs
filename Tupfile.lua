@@ -8,7 +8,8 @@ patterns = {
 
 transpositions = 
 {
-   ['Worship/How Can I Keep From Singing.pro']={ '-5' }, 
+   ['Worship/How Can I Keep From Singing.pro']={ '-5' },
+   ['Worship/Great Are You Lord.pro']={ '-2' },
 }
 
 for _, pattern in pairs(patterns) do
@@ -42,7 +43,7 @@ for _, pattern in pairs(patterns) do
                 '-G',
                 '-P a4',
                 '-a',
-                '-w6',
+                '-w 4',
                 '"'..f_in..'"',
                 tcmd,
                 '|',
