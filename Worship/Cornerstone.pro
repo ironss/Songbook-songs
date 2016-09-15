@@ -37,7 +37,7 @@ He is [Am]Lord, Lord of [F]all [G]
 
 {colb}
 {c:Instrumental}
-[C]
+[|]  [C]    [|]   [%]      [|]  [Am]        [|]   [%]      [|]   [F]    [|]   [G]    [|]
 
 {c:Verse 3}
 [C]  When He shall come with trumpet sound
