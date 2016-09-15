@@ -15,7 +15,8 @@ Policies
    conflicts with the change detection of tup so that tup always generates
    all PDF files.
 
-5. Do not synchronise .git or .tup directories.
+5. Do not synchronise .git or .tup directories on Dropbox, because they are
+   not needed elsewhere.
 
 6. You can do a git checkout anywhere, but then you lose the Dropbox sync
    with SongBook.
