@@ -1,0 +1,5 @@
+1. Find a way to add optional transposition, so that we can generate PDFs in
+   both the original key and a transposed key.
+
+2. Find a way to get proper spacing between columns in a multi-column chart.
+
