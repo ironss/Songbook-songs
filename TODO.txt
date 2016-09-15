@@ -1,5 +1,13 @@
-1. Find a way to add optional transposition, so that we can generate PDFs in
+1. DONE -- Find a way to add optional transposition, so that we can generate PDFs in
    both the original key and a transposed key.
+   
+   * Added a list of transpositions in Tupfile.lua. These are then used to 
+     create additional files.
+
 
 2. Find a way to get proper spacing between columns in a multi-column chart.
+
+   * It seems best to do manual line breaking. This does depend on the font
+     type and size, but the lines really should be broken on bar lines or
+     phrases, which is not visible in the Chordii file.
 
