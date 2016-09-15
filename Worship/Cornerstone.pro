@@ -35,10 +35,6 @@ Christ a[F]lone, [Am]Corner[G]stone
 He is [Am]Lord, Lord of [F]all [G]
 {eoc}
 
-
-{c:Chorus 1 (2x)}
-
-
 {colb}
 {c:Instrumental}
 [C]
@@ -47,9 +43,9 @@ He is [Am]Lord, Lord of [F]all [G]
 [C]  When He shall come with trumpet sound
 [F]  Oh may I then in [G]him be found
 [Am]  Dressed in His righteous[Am/G]ness alone
-[F]  Faultless [G]stand be-[G#]fore the throne
+[F]  Faultless [G]stand be[G#]fore the throne
 
 
 {c:Ending}
-[C]
+[|]  [C]    [|]   [%]      [|]  [Am]        [|]   [%]      [|]   [F]    [|]   [G]    [|]
 
