@@ -1,8 +1,8 @@
 {t:Overcome}
+{columns:2}
 
 {c:Intro}
-[C][/][/][|][/][/][/][|][Em][/][/][|][D][/][/][|][G][/][/][|][/][/][/][|]
-[/][/][/][|][/][/][/][:||]
+[||:]     [C]     [|]   [%]     [|]     [Em]        [|]   [D]     [|]   [G]     [|]   [%]     [|]   [%]     [|]   [%]     [:||]
 
 [G]Seated above enthroned in the Father's [C]love
 [Em7]Destined to die [D]poured out for all [G]mankind
@@ -11,8 +11,8 @@
 [Em7]He never sinned but [D]suffered as if He [G]did
 
 {c:Pre-chorus:}
-All au-[C]thority, ev'ry [Em7]victo-[D]ry is [G]Yours
-All au-[C]thority, ev'ry [Em7]victo-[D]ry is [G]Yours
+All au-[C]tho-[C/Bb]ri  -   [C]ty, ev'ry [Em7]vic-to-[D]ry is [G]Yours
+All au-[C]tho-[C/Bb]ri  -   [C]ty, ev'ry [Em7]vic-to-[D]ry is [G]Yours
 
 {c:Chorus:}
 {soc}
@@ -25,22 +25,20 @@ Awesome and great is [D]Your Name
 {eoc}
 
 {c:Instrumental 1:}
-[G][/][/][|][/][/][/][|][C][/][/][|][/][/][/][:||]
+[||:]     [G]     [|]   [%]     [|]   [C]     [|]   [%]     [:||]
 
 [G]Power in hand speaking the Father's [C]plan
 [Em7]Sending us out [D]light in this bro-[G]ken land
 
-{c:Pre-chorus} > {c:Chorus}
+{c:Pre-chorus}
+
+{c:Chorus}
 
 {c:Instrumental 2:}
-[C][/][/][|][G][/][/][|][Em][/][/][|][D][/][/][|][C][/][/][|][G][/][/][|]
-[D][/][/][|][/][/][/][|]
-
+[||:]     [C]     [|]   [G]     [|]     [Em]        [|]   [D]     [|]   [C]     [|]   [G]     [|]   [D]     [|]   [%]     [:||]
+{colb}
 {c:Bridge:}
-[C]We will o-[G]vercome by the [Em]blood of the Lamb
-[And the [D]word of our tes-[C]timony
-Ev'-[G]ryone o-[Dus]ver-[D]come
-
-{c:Chorus} > {c:Instrumental 1} > {c:Chorus} > 
-{c:Instrumental} > {c:Chorus} etc
+[C]We will [G]overcome by the [Em]blood of the Lamb
+[And the [D]word of our testi[C]mony
+Ev'ry[G]one over[D]come
 

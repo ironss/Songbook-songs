@@ -8,8 +8,10 @@ patterns = {
 
 transpositions = 
 {
-   ['Worship/How Can I Keep From Singing.pro']={ '-5' },
+   ['Worship/Here On The Earth.pro']={ '+8' },
+   ['Worship/Overcome.pro']={ '+7' },
    ['Worship/Great Are You Lord.pro']={ '-2' },
+   ['Worship/How Can I Keep From Singing.pro']={ '-5' },
 }
 
 for _, pattern in pairs(patterns) do
