@@ -12,6 +12,7 @@ transpositions =
    ['Worship/Overcome.pro']={ '+7' },
    ['Worship/Great Are You Lord.pro']={ '-2' },
    ['Worship/How Can I Keep From Singing.pro']={ '-5' },
+   ['Worship/You Are My Strength.pro']={ '+2' },
 }
 
 for _, pattern in pairs(patterns) do
@@ -27,7 +28,7 @@ for _, pattern in pairs(patterns) do
              f_pdf = 'pdf/' .. f_in .. '.' .. tpos .. '.pdf'
              tcmd = '-x ' .. tpos
           end
-          print(f_in, f_pdf)
+          --print(f_in, f_pdf)
           
           tup.definerule{
              inputs={ f_in },
