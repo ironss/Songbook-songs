@@ -45,7 +45,7 @@ for _, pattern in pairs(patterns) do
                 '-T Helvetica',
                 '-G',
                 '-P a4',
-                '-a',
+                --'-a',
                 '-w 4',
                 '"'..f_in..'"',
                 tcmd,
