@@ -13,6 +13,7 @@ transpositions =
    ['Worship/Great Are You Lord.pro']={ '-2' },
    ['Worship/How Can I Keep From Singing.pro']={ '-5' },
    ['Worship/You Are My Strength.pro']={ '+2' },
+   ['Worship/Wairua Tapu.pro']={ '+3' },
 }
 
 for _, pattern in pairs(patterns) do
