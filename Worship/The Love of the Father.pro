@@ -1,4 +1,5 @@
 {t:The Love of the Father}
+{st:Ferguson/Thompson}
 {columns:2}
 
 {c:Verse 1}
