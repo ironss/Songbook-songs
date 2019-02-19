@@ -4,6 +4,7 @@ tup.creategitignore()
 patterns = { 
    '*.pro',
    'Worship/*.pro',
+   'Jazz/*.pro',
 }
 
 transpositions = 
@@ -30,30 +31,28 @@ for _, pattern in pairs(patterns) do
              tcmd = '-x ' .. tpos
           end
           --print(f_in, f_pdf)
-          
           tup.definerule{
              inputs={ f_in },
              outputs={ f_pdf },
              command=table.concat({
-                'chordii',
-                '-c 12',
-                --'-C LiberationSans-Bold',
-                --'-C FreeSansBold',
-                '-C Helvetica-Bold',
-                '-t 12',
-                --'-T LiberationSans',
-                --'-T FreeSans',
-                '-T Helvetica',
-                '-G',
-                '-P a4',
-                --'-a',
-                '-w 4',
+                'chordpro',
+                '--config=modern3',
+                '--diagrams=none',
+--                '-c 12',
+--                --'-C LiberationSans-Bold',
+--                --'-C FreeSansBold',
+--                '-C Helvetica-Bold',
+--                '-t 12',
+--                --'-T LiberationSans',
+--                --'-T FreeSans',
+--                '-T Helvetica',
+--                '-G',
+--                '-P a4',
+--                '-a',
+--                '-w 4',
                 '"'..f_in..'"',
                 tcmd,
-                '|',
-                'ps2pdf',
-                '-',
-                '"' .. f_pdf .. '"',
+                '-o "' .. f_pdf .. '"',
              }, ' ')
           }
        end
