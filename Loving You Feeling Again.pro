@@ -1,5 +1,6 @@
 {t:Loving You Feeling Again}
 {st:Emmylou Harris}
+{columns:2}
 
 [D]When I saw you standing there on the street
 I found myself by your side [B7]
@@ -21,11 +22,12 @@ It's [D]really got me reeling [Dmaj7]again
 To start all [A]over again with [D]you
 [G]Loving you [A]feeling with [D]you
 
+{colb}
 {c:Bridge}
 We were so [Em]close, we were too far [D]apart
 I gave you my [Em]love, I wanted your [D]heart
 Wi[Bm]thout yesterday, [G]haunting the way
-[C]Waybe we'd still be t[A]ogether
+[C]Maybe we'd still be to[A]gether
 
 Sharing that [D]loving you feeling [Dmaj7]again
 (loving you feeling)

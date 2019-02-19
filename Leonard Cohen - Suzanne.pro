@@ -1,5 +1,6 @@
 {title:Suzanne}
 {st:Leonard Cohen}
+{columns:2}
 
 [G]Suzanne takes you down
 To her place by the river,
@@ -24,6 +25,7 @@ For you've [Am]touched her perfect body
 With your [G]mind.
 {eoc}
 
+{colb}
 And Jesus was a sailor
 When He walked upon the water,
 And he spent a long time watching
