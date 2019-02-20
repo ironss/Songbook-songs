@@ -8,7 +8,7 @@ O [G2]praise Him, Alleluia!
 [D]Thou burning sun with golden beam
 [Bm7]thou silver moon with softer gleam
 O [G2]praise Him, O [D/F#]praise Him
-Alle[G2]luia! Alle[D/F#]luia! Allelu [Asus] -  [D] ia!
+Alle-[G2]luia! Alle-[D/F#]luia! Alle-[Asus]lu-[D]ia!
 
 
 {c:Verse 2}
@@ -18,7 +18,7 @@ O [G2]praise Him, Alleluia!
 [D]Thou rising moon, in praise rejoice
 [Bm7]ye lights of evening, find a voice    
 O [G2]praise Him, O [D/F#]praise Him
-Alle[G2]luia! Alle[D/F#]luia! Allelu [Asus] - [D]ia!
+Alle-[G2]luia! Alle-[D/F#]luia! Alle-[Asus]lu-[D]ia!
 
 {colb}
 {c:Verse 3}
@@ -28,12 +28,12 @@ O [G2]praise Him, Alleluia!
 [D]Praise, praise the Father, praise the Son
 [Bm7]and praise the Spirit, three in One  
 O [G2]praise Him, O [D/F#]praise Him
-Alle[G2]luia! Alle[D/F#]luia! Allelu[Asus] - [D]ia!
+Alle-[G2]luia! Alle-[D/F#]luia! Alle-[Asus]lu-[D]ia!
 
 
 {c:Tag}
-O Alle - [G]luia! Alle - [A]luia!
-O Alle - [Bm]luia! Alle - [A/C#]luia!
-O Alle - [G]luia! Alle - [A]luia!
-O Alle - [Bm]luia! Alle - [A/C#]luia! Alle - [G2]luia!
+O Alle-[G]luia! Alle-[A]luia!
+O Alle-[Bm]luia! Alle-[A/C#]luia!
+O Alle-[G]luia! Alle-[A]luia!
+O Alle-[Bm]luia! Alle-[A/C#]luia! Alle-[G2]luia!
 
