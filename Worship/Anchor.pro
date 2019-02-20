@@ -1,5 +1,4 @@
 {t:Anchor}
-{st:Test}
 {key:F}
 
 {c:Verse 1}
