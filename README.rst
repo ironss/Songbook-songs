@@ -1,4 +1,4 @@
-Various songs in Chordpro format for Songbook and Chordii.
+Various songs in Chordpro format for Songbook and ChordPro.
 
 
 Policies

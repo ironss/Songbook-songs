@@ -5,7 +5,7 @@ Notes for how to format ChordPro songs for
 
 * Songbook (Android)
 * Chordii (Linux)
-*
+* ChordPro (Linx, Windows, etc).
 
 Different programs handle the input slightly differently.
 
@@ -22,6 +22,7 @@ previous chord.
 
 SongBook handles this a bit better.
 
+ChordPro handles this better, similar to SongBook
 
 
 Style
