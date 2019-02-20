@@ -2,7 +2,7 @@
 tup.creategitignore()
 
 patterns = { 
-   '*.pro',
+   'Songs/*.pro',
    'Worship/*.pro',
    'Jazz/*.pro',
 }
