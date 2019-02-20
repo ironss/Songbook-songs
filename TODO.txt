@@ -12,7 +12,7 @@
      phrases, which is not visible in the Chordii file.
 
 
-3. Better font and layout choices (etc) for Chordii
+3. DONE -- Better font and layout choices (etc) for Chordii
 
    * Title should be bold
    * Comments (eg Verse) should be bold, rather than highlighted using
@@ -20,9 +20,15 @@
    * Slightly more space between chords and words.
    * Slightly less space between lines.
 
+   Use ChordPro rather than Chordii. The 'modern3' style gives a nice looking
+   result.
    
 4. Some songs are incomplete -- they have the word 'incomplete' in the title.
    There are about 45 of them, out of about 115.
    
    I have been through the first 10 or so songs and finished them. But there are lots more to do...
+
+5. DONE -- Better spacing between chord symbols.
+
+   * Use ChordPro, which give better spacing between chord symbols.
 
